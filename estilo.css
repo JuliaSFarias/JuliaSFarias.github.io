@@ -1,0 +1,26 @@
+
+body {
+    background-color: thistle;
+    text-align: center;
+}
+
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cor-cidade {
+    color: tomato;
+}
+h2 {
+    text-decoration: underline ;
+}
+ol {
+    font-family:cursive ;
+    font-style: italic;
+}
+.estilo {
+    text-decoration: underline;
+    font-weight: bold;
+} 
